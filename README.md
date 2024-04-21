@@ -4,7 +4,11 @@ I had a simple study of these coral harmonics using Data Science and Machine Lea
 Choral harmony refers to the combination of different musical pitches, tones, and voices in choral music to create a pleasing and cohesive sound.
 Python libraries like as pandas, numpy, matplotlib, and seaborn are utilized in the project.
 
-
+The process entails dividing the data into several subsets, using one subset to train the model, and using the other subset to assess the model's performance. 
+For Cross-Validation, the train_test_split method is accordingly employed. An algorithmic prediction method called the Neighbors Classifier is applied to assist in forecasting the system's output values. 
+Furthermore, one of the key variables in determining the dataset's prediction rate is the accuracy score. The accuracy score on prediction is 0.7353563867325336. 
+The relationship between the predicted and actual values is scored for accuracy. 
+As predicted, they should therefore fall between 0.7 and 0.9. Regarding HypeTuning the parameters for the dataset's input-output algorithm decision-making relationship. 
 
 
 
