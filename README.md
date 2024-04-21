@@ -21,4 +21,4 @@ Overview:: It has been seen that the prediction rate for the Pitches and Meter v
      On the other hand, a low accuracy score could indicate problems with sustaining a steady tone, synchronization between vocalists, or pitch errors. 
      A choral harmony accuracy score of 73.535% suggests that the choir demonstrates a moderate level of proficiency in executing harmonies. 
      While this score indicates that the choir generally performs well and achieves a cohesive sound, there is still room for improvement in certain areas.
-     Possibly reaming 26.465% can be maintained on improving Pitch Accuracy, Timing issues, Tonal Balance, Expression and Dynamics, etc area
+     Possibly reaming 26.465% can be maintained on improving Pitch Accuracy, Timing issues, Tonal Balance, Expression and Dynamics, etc area.
