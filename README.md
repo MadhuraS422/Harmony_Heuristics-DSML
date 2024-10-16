@@ -1,3 +1,5 @@
+Data-Science-and-Machine-Learning---Bach-Choral-Harmony
+
 Bach's choral harmony refers to the unique style and approach to harmony found in the choral works of Johann Sebastian Bach, one of the most renowned composers of the Baroque period. 
 Bach's choral harmonies are characterized by their complexity, richness, and expressive depth.
 I had a simple study of these coral harmonics using Data Science and Machine Learning (DSML) Algorithms to build a classifier for prediction of coral harmony.
